@@ -1,2 +1,2 @@
-# PRECURS-HENRY
-ESTE ES UN REPOSITORIO DE PRUEBA PARA EL PRECURSO DE HENRY
+leny yezmin vaca
+este proyecto es una prueba de como crear un reopsitorio desde github y como clonarlo
